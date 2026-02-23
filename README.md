@@ -6,3 +6,5 @@ Contains two scripts:
 
 2. phfCompare recieves such a text file (database) and compares the digests with a given image. The script will then notify you of either an exact match or close similarity.
    The sensitivity of close matches can be adjusted under "hamming_threshold"
+
+Over time I plan to improve the readibility and information provided by these programs
